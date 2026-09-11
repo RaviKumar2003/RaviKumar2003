@@ -11,7 +11,7 @@ UGC NET JRF (Computer Science) | MCA @ JNU | Full Stack Developer | AI & Machine
   <a href="https://www.linkedin.com/in/ravi-kumar-jnu/">
     <img src="https://img.shields.io/badge/LinkedIn-Ravi_Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/company/algojrf-institute/">
+  <a href="https://www.linkedin.com/company/algojrf/">
     <img src="https://img.shields.io/badge/AlgoJRF_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="AlgoJRF LinkedIn"/>
   </a>
 </p>
@@ -22,7 +22,7 @@ UGC NET JRF (Computer Science) | MCA @ JNU | Full Stack Developer | AI & Machine
 
 - 🎓 MCA Student at Jawaharlal Nehru University (JNU)
 - 🏆 UGC NET JRF Qualified (Computer Science)
-- 🚀 Founder of **AlgoJRF Institute**
+- 🚀 Founder of **AlgoJRF**
 - 💻 Full Stack Developer
 - 🤖 Interested in Artificial Intelligence, Machine Learning, Federated Learning, and Privacy-Preserving AI
 - 📚 Building India's next-generation platform for UGC NET & JRF aspirants
@@ -68,7 +68,7 @@ UGC NET JRF (Computer Science) | MCA @ JNU | Full Stack Developer | AI & Machine
 
 ## 🌱 Currently Working On
 
-- 🚀 AlgoJRF Institute
+- 🚀 AlgoJRF
 - 🤖 AI & Machine Learning Research
 - 🔒 Privacy-Preserving Federated Learning
 - 📈 UGC NET Mock Test Platform
@@ -77,7 +77,7 @@ UGC NET JRF (Computer Science) | MCA @ JNU | Full Stack Developer | AI & Machine
 
 ## 📌 Featured Projects
 
-- 🌐 **AlgoJRF Institute** – UGC NET & JRF Preparation Platform
+- 🌐 **AlgoJRF** – UGC NET & JRF Preparation Platform
 - 🤖 Privacy-Preserving Federated Learning
 - 💻 Full Stack Web Applications
 - 📚 Educational Technology Solutions
@@ -103,11 +103,11 @@ UGC NET JRF (Computer Science) | MCA @ JNU | Full Stack Developer | AI & Machine
 
 👤 **Personal LinkedIn:** https://www.linkedin.com/in/ravi-kumar-jnu/
 
-🏢 **AlgoJRF Institute:** https://www.linkedin.com/company/algojrf-institute/
+🏢 **AlgoJRF Institute:** https://www.linkedin.com/company/algojrf/
 
-📢 **Telegram:** https://t.me/algojrfinstitute
+📢 **Telegram:** https://t.me/algojrf
 
-📧 **Email:** *Add your professional email here*
+📧 **Email:** *ravikumar60518@gmail.com*
 
 ---
 
